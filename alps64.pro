@@ -1,4 +1,4 @@
-update=Wed 13 Apr 2016 12:23:18 PM JST
+update=6/4/2017 1:03:23 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -30,7 +30,7 @@ BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
 [eeschema]
 version=1
-LibDir=../library
+LibDir=../../kicad_lib_tmk-master
 [eeschema/libraries]
 LibName1=alps64-rescue
 LibName2=keyboard_parts
@@ -63,3 +63,4 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
+LibName32=C:/Users/DaveyB/Desktop/kicad_lib_tmk-master/keyboard_parts
